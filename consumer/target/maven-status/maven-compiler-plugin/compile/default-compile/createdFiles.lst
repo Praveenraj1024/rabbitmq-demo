@@ -1,0 +1,3 @@
+com/stackroute/rabbitmq/config/RabbitMqConsumerConfig.class
+com/stackroute/rabbitmq/service/ConsumerService.class
+com/stackroute/rabbitmq/RabbitmqApplication.class
